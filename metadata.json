@@ -1,0 +1,8 @@
+{
+  "name": "UTILEX - All-in-One Online Tools Platform",
+  "description": "UTILEX provides 60+ powerful, secure online utilities for PDF, image, text, developer, AI, productivity, calculation, and conversion tasks. Created by Daniyal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
